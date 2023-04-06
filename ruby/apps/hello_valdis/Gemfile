@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+
+gem "rainbow", "~> 3.1.1"
+gem "hola", path: "../../gems/hola"

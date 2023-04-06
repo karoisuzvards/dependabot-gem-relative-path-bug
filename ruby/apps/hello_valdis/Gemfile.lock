@@ -1,0 +1,19 @@
+PATH
+  remote: ../../gems/hola
+  specs:
+    hola (0.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rainbow (3.1.1)
+
+PLATFORMS
+  x86_64-darwin-21
+
+DEPENDENCIES
+  hola!
+  rainbow (~> 3.1.1)
+
+BUNDLED WITH
+   2.3.20
