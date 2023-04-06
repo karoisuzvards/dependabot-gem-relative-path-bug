@@ -12,5 +12,9 @@ ruby
 ```
 
 `hello_valdis` - sample app that uses gem from relative directory
+
+
 `hola` - gem that is being used by `hello_valdis` app
+
+
 
